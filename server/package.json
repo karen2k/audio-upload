@@ -1,0 +1,10 @@
+{
+	"name": "Audio",
+	"version": "0.0.1",
+	"private": "true",
+	"dependencies": {
+    "binaryjs": "*",
+    "wav": "*",
+    "colors": "*"
+	}
+}
